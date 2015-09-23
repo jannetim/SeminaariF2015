@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: seminaari.aux
+The style file: babalpha.bst
+Database file #1: references-fi.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty language in Gre14
+You've used 1 entry,
+            3213 wiz_defined-function locations,
+            699 strings with 6426 characters,
+and the built_in function-call counts, 378 in all, are:
+= -- 28
+> -- 8
+< -- 1
++ -- 2
+- -- 2
+* -- 30
+:= -- 61
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 5
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 21
+empty$ -- 35
+format.name$ -- 5
+if$ -- 71
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 20
+num.names$ -- 3
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 7
+swap$ -- 5
+text.length$ -- 1
+text.prefix$ -- 1
+top$ -- 0
+type$ -- 4
+warning$ -- 1
+while$ -- 2
+width$ -- 2
+write$ -- 25
+(There was 1 warning)

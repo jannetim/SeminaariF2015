@@ -1,0 +1,22 @@
+\begin{thebibliography}{Gre14}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{Gre14}]{Gre14}
+\btxnamefont {\btxlastnamefont {Gregory}, Jason}\btxauthorcolon\ \btxtitlefont
+  {Game Engine Architecture}.
+\newblock \btxpublisherfont {A K Peters/CRC Press}, \btxeditionnumlong {2.}{},
+  2014.
+
+\end{thebibliography}
