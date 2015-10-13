@@ -26,16 +26,15 @@
 \newblock \btxpublisherfont {A K Peters/CRC Press}, \btxeditionnumlong {2.}{},
   2014.
 
-\bibitem [{Nvi03}]{Nvi03}
-\btxnamefont {\btxlastnamefont {Nvidia}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {The cg tutorial}{The Cg Tutorial}}.
-\newblock
-  \url{http://http.developer.nvidia.com/CgTutorial/cg_tutorial_chapter01.html},
-  2003.
-
 \bibitem [{Puh08}]{Puh08}
 \btxnamefont {\btxlastnamefont {Puhakka}, Antti}\btxauthorcolon\ \btxtitlefont
   {3D-grafiikka}.
 \newblock \btxpublisherfont {Talentum}, \btxeditionnumlong {1.}{}, 2008.
+
+\bibitem [{She08}]{She08}
+\btxnamefont {\btxlastnamefont {Sherrod}, Allen}\btxauthorcolon\ \btxtitlefont
+  {Game Graphics Programming}.
+\newblock \btxpublisherfont {Charles River Media}, \btxeditionnumlong {1.}{},
+  2008.
 
 \end{thebibliography}

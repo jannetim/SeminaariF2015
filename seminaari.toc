@@ -1,15 +1,16 @@
 \select@language {finnish}
 \contentsline {section}{\numberline {1}Johdanto}{1}{section.1}
-\contentsline {section}{\numberline {2}Ohjelmoitavat s\IeC {\"a}vyttimet}{1}{section.2}
-\contentsline {subsection}{\numberline {2.1}S\IeC {\"a}vyttimien historia}{1}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}K\IeC {\"a}rkipistes\IeC {\"a}vyttimet}{2}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Geometrias\IeC {\"a}vyttimet}{2}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Pikseli-/fragmenttis\IeC {\"a}vyttimet}{2}{subsection.2.4}
-\contentsline {section}{\numberline {3}Korkean tason s\IeC {\"a}vytinkielet}{2}{section.3}
-\contentsline {section}{\numberline {4}S\IeC {\"a}vyttimien p\IeC {\"a}\IeC {\"a}sy muistiin}{2}{section.4}
-\contentsline {subsection}{\numberline {4.1}S\IeC {\"a}vytinrekisterit}{2}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Tekstuurikartat}{2}{subsection.4.2}
-\contentsline {section}{L\IeC {\"a}hteet}{2}{section*.2}
+\contentsline {section}{\numberline {2}S\IeC {\"a}vyttimien historiaa}{1}{section.2}
+\contentsline {section}{\numberline {3}Ohjelmoitavat s\IeC {\"a}vyttimet}{1}{section.3}
+\contentsline {subsection}{\numberline {3.1}K\IeC {\"a}rkipistes\IeC {\"a}vyttimet}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Geometrias\IeC {\"a}vyttimet}{2}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Pikseli-/fragmenttis\IeC {\"a}vyttimet}{2}{subsection.3.3}
+\contentsline {section}{\numberline {4}Korkean tason s\IeC {\"a}vytinkielet}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Koodiesimerkkej\IeC {\"a}}{3}{subsection.4.1}
+\contentsline {section}{\numberline {5}??S\IeC {\"a}vyttimien p\IeC {\"a}\IeC {\"a}sy muistiin??}{3}{section.5}
+\contentsline {subsection}{\numberline {5.1}S\IeC {\"a}vytinrekisterit}{3}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Tekstuurikartat}{3}{subsection.5.2}
+\contentsline {section}{L\IeC {\"a}hteet}{3}{section*.2}
 \select@language {finnish}
 \select@language {finnish}
 \select@language {finnish}
