@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 OCT 2015 20:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 OCT 2015 09:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -914,12 +914,12 @@ Package babel Info: Redefining finnish shorthand "|
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 159.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 165.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 168.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 163.
  [2]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 165.
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 169.
 Package babel Info: Redefining finnish shorthand "|
@@ -961,7 +961,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
 Here is how much of TeX's memory you used:
  9767 strings out of 493315
  145784 string characters out of 6137904
- 279163 words of memory out of 5000000
+ 278163 words of memory out of 5000000
  12942 multiletter control sequences out of 15000+600000
  48684 words of font info for 79 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -973,7 +973,7 @@ ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
 ype1/public/lm/lmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
 /lm/lmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmri10.p
 fb>
-Output written on seminaari.pdf (6 pages, 171963 bytes).
+Output written on seminaari.pdf (6 pages, 172360 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams

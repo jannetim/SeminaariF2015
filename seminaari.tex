@@ -131,7 +131,7 @@
 
 \section{Sävyttimien historiaa}
 
-Ennen ohjelmoitavia sävyttimiä grafiikkaa tuotettiin käyttämällä hyväksi näytönohjaimien (GPU) kiinteää liukuhihnaa (Fixed-Function Pipeline) (tätä ennen laskenta tehtiin prosessorissa (CPU), mikä oli hidasta). Kehittäjä saattoi siis antaa raskaat laskutyöt näytönohjaimelle hoidettavaksi kiinteällä liukuhihnalle, mutta itse sen suorittamiin funktioihin ei voinut puuttua kuin parametrien avulla. Kiinteä liukuhihna näytönohjaimessa nopeutti laskentaa, ja toi mukanaan mahdollisuuksia luoda standardioperaatioiden rajoissa efektejä (e.g. Goraud-sävytys).
+Ennen ensimmäisiä \emph{grafiikkakiihdyttimiä}, kuten 3Dfx:n Voodoo, grafiikan renderöinti tapahtui prosessorilla (CPU), jonka työtaakkaa erilliset grafiikkapiirit kehitettiin vähentämään. Ennen ohjelmoitavia sävyttimiä grafiikkaa tuotettiin käyttämällä hyväksi näytönohjaimien (GPU) \emph{kiinteää liukuhihnaa} (Fixed-Function Pipeline). Kehittäjä saattoi siis antaa raskaat laskutyöt näytönohjaimelle hoidettavaksi kiinteällä liukuhihnalla, mutta itse sen suorittamiin funktioihin ei voinut puuttua muuten kuin parametrien avulla. Kiinteä liukuhihna näytönohjaimessa nopeutti laskentaa, ja toi mukanaan mahdollisuuksia luoda standardioperaatioiden rajoissa graafisia tehokeinoja ja efektejä (esimerkiksi Goraud-sävytys).
 
 Myöhemmin tulivat ensimmäiset \emph{ohjelmoitavaa renderointiliukuhihnaa} tukevat näytönohjainpiirit, joissa kiinteän liukuhihnan pystyi korvaamaan omilla vapaasti ohjelmoitavilla sävyttimillä. Korvaamalla kiinteän liukuhihnan laskenta nykyajan grafiikkapiirien tukemilla ohjelmoitavilla sävyttimillä saavutetaan vapaus muokata vapaasti laskenta- ja muokkausoperaatioita, mikä antaa mahdollisuuden piirtää kuvaa enemminkin luovuuden rajoissa, kuin ennaltamääriteltyjen ehtojen. Ensimmäiset sävytinmallit tukivat ainoastaan alemman tason konekielillä ohjelmointia. Sen lisäksi, että kehittäjien täytyi luoda sävyttimen konekielellä, täytyi sävytin luoda lisäksi usein erikseen sekä OpenGL- että Direct3D-rajapinnoille johtuen näiden kahden suosituimman rajapinnan konekielien poikkeavuuksista. Myöhemmin verteksi-, eli kärkipiste-, ja pikselisävyttimet alkoivat yleistyä. Sävyttimien käyttö grafiikkaliukuhihnalla mahdollistaa rinnakkaistamisen erittäin hyvin. 
 \cite{Ake02}
@@ -154,7 +154,7 @@ Yleisesti siis kärkipistesävytin voi muokata monikulmion kärkipisteen, normaa
 
 \subsection{Geometriasävyttimet}
 
-Geometriasävyttimet on kärkipiste- ja pikselisävyttimiin verrattuna uudempi sävytin, ja se sijaitsee kärkipistesävyttimen jälkeen, ja ennen pikselisävytintä. Sen käyttö ei ole pakollista, ja vielä usein esimerkiksi pelien sävytyksessä on otettava huomioon jonkinlainen varakeino mikäli geometriasävyttimien käyttö ei ole mahdollista. Geometriasävytin käsittelee kokonaisia primitiivejä.
+Geometriasävyttimet on kärkipiste- ja pikselisävyttimiin verrattuna uudempi sävytin sen tultua esitellyksi DirectX 10:n myötä. Geometriasävytin sijaitsee renderöintiliukuhihnalla kärkipistesävyttimen jälkeen, ja ennen pikselisävytintä. Sen käyttö ei ole pakollista, ja vielä usein esimerkiksi pelien sävytyksessä on otettava huomioon jonkinlainen varakeino mikäli geometriasävyttimien käyttö ei ole mahdollista. Geometriasävytin käsittelee kokonaisia primitiivejä, eli muokkaa, valikoi ja jopa luo uusia primitiivejä, kuten pisteitä, suoria ja janoja sekä kolmioita \cite{Gre14}.
 
 \subsection{Pikseli-/fragmenttisävyttimet}
 
