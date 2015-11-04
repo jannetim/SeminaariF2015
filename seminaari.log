@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 OCT 2015 09:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  4 NOV 2015 02:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -620,9 +620,34 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip54
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count124
+\lst@gtempboxa=\box29
+\lst@token=\toks32
+\lst@length=\count125
+\lst@currlwidth=\dimen144
+\lst@column=\count126
+\lst@pos=\count127
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count128
+\lst@lineno=\count129
+\lst@maxwidth=\dimen147
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count130
+\lst@skipnumbers=\count131
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
 (/usr/local/texlive/2013/texmf-dist/tex/latex/babelbib/babelbib.sty
 Package: babelbib 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH)
-\c@btxromaniannumeral=\count124
+\c@btxromaniannumeral=\count132
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -632,26 +657,26 @@ Package tocbibind Info: The document has section divisions on input line 50.
 Package tocbibind Note: Using section or other style headings.
 
 )
-\c@lau=\count125
-\c@ong=\count126
+\c@lau=\count133
+\c@ong=\count134
  (./seminaari.aux)
 \openout1 = `seminaari.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 111.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 112.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -683,7 +708,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 111.
+LaTeX Info: Redefining \microtypecontext on input line 112.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -699,17 +724,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 )
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
-\scratchdimen=\dimen144
-\scratchbox=\box29
-\nofMPsegments=\count128
-\nofMParguments=\count129
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count130
-\MPscratchDim=\dimen145
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count135
+\scratchdimen=\dimen148
+\scratchbox=\box31
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen149
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -725,8 +750,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 111.
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 112.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -734,20 +759,21 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count133
+\c@section@level=\count141
 )
-LaTeX Info: Redefining \ref on input line 111.
-LaTeX Info: Redefining \pageref on input line 111.
-LaTeX Info: Redefining \nameref on input line 111.
+LaTeX Info: Redefining \ref on input line 112.
+LaTeX Info: Redefining \pageref on input line 112.
+LaTeX Info: Redefining \nameref on input line 112.
 
 (./seminaari.out) (./seminaari.out)
 \@outlinefile=\write3
 \openout3 = `seminaari.out'.
 
+\c@lstlisting=\count142
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 112.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 112.
 
 babelbib: Set bibliography fall-back language to finnish
 (/usr/local/texlive/2013/texmf-dist/tex/latex/babelbib/finnish.bdf
@@ -758,7 +784,7 @@ babelbib extension \btxifchangecaseoff added to \extrasfinnish
 babelbib: Load BibTeX extensions \bibsfinnish for finnish
 babelbib: Set language for keywords in the bibliography fixed to finnish
 babelbib: Set language for keywords in the bibliography fixed to finnish
-Package hyperref Info: Option `pageanchor' set `false' on input line 117.
+Package hyperref Info: Option `pageanchor' set `false' on input line 118.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -796,12 +822,12 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 117.
 \sideindent=\skip55
 \lowerspace=\skip56
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 118.
 [1
 
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package hyperref Info: Option `pageanchor' set `true' on input line 117.
+Package hyperref Info: Option `pageanchor' set `true' on input line 118.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -835,39 +861,39 @@ Package hyperref Info: Option `pageanchor' set `true' on input line 117.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 119.
 
 [1
 
 
 ] (./seminaari.toc
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 7.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 7.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 7.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 5.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 7.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 5.
+(Font)              <10.95> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+(Font)              <6> on input line 7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -875,7 +901,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -887,47 +913,58 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \openout4 = `seminaari.toc'.
 
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 125.
  [2
 
 ]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 135.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 146.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 144.
+(babel)             in language  on input line 146.
 
 [1
 
 ]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 152.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 156.
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 159.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 163.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 163.
+(babel)             in language  on input line 159.
  [2]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 165.
+(babel)             in language  on input line 164.
+
+Overfull \hbox (14.49303pt too wide) in paragraph at lines 182--183
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 187.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 187.
+[3]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 173.
+(babel)             in language  on input line 203.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 208.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 208.
+ [4]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 209.
  (./seminaari.bbl
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 1.
@@ -943,40 +980,65 @@ babelbib: Using the BibTeX style's default font for `ISBN'.
 babelbib: Using the BibTeX style's default font for `ISSN'.
 babelbib: Using the BibTeX style's default font for `url'.
 babelbib: Using the BibTeX style's default font for `numeral'.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 33.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+\T1/lmtt/m/n/10.95 microsoft . com / en-[]us / library / windows / desktop / ff
+476345$[]\T1/lmr/m/n/10.95 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+[]\T1/lmr/m/n/10.95 (+20) Nvidia: \T1/lmr/m/it/10.95 (+20) Tes-sel-la-tion\T1/l
+mr/m/n/10.95 (+20) .  []$\T1/lmtt/m/n/10.95 http : / / www . nvidia . com / obj
+ect /
+ []
+
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 199.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 199.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
+(babel)             in language  on input line 58.
+[5])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 242.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 242.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 242.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 242.
  (./seminaari.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 242.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 242.
 Package rerunfilecheck Info: File `seminaari.out' has not changed.
-(rerunfilecheck)             Checksum: 77C3E15CF611389545F5F655559DB2D4;780.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
+(rerunfilecheck)             Checksum: FAF363B13E984022E78610911379E96E;620.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 242.
  ) 
 Here is how much of TeX's memory you used:
- 9767 strings out of 493315
- 145784 string characters out of 6137904
- 278163 words of memory out of 5000000
- 12942 multiletter control sequences out of 15000+600000
- 48684 words of font info for 79 fonts, out of 8000000 for 9000
+ 11449 strings out of 493315
+ 167895 string characters out of 6137904
+ 306224 words of memory out of 5000000
+ 14554 multiletter control sequences out of 15000+600000
+ 50530 words of font info for 95 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 31i,8n,35p,1040b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,8n,35p,1040b,1777s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2013/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 13/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2013/texmf-d
 ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
 ype1/public/lm/lmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
 /lm/lmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmri10.p
-fb>
-Output written on seminaari.pdf (6 pages, 172360 bytes).
+fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on seminaari.pdf (9 pages, 207362 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 13921 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 14417 words of extra memory for PDF output out of 17280 (max. 10000000)
 

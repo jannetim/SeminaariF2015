@@ -1,4 +1,4 @@
-\begin{thebibliography}{AMH02}
+\begin{thebibliography}{Puh08}
   \providebibliographyfont{name}{}%
   \providebibliographyfont{lastname}{}%
   \providebibliographyfont{title}{\emph}%
@@ -13,10 +13,9 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
-\bibitem [{AMH02}]{Ake02}
-\btxnamefont {\btxlastnamefont {Akenine-Möller}, Tomas} \btxandlong {}\
-  \btxnamefont {\btxlastnamefont {Haines}, Eric}\btxauthorcolon\ \btxtitlefont
-  {Real-Time Rendering}.
+\bibitem [{AM02}]{Ake02}
+\btxnamefont {\btxlastnamefont {Akenine-Möller},~Tomas;Haines,
+  Eric}\btxauthorcolon\ \btxtitlefont {Real-Time Rendering}.
 \newblock \btxpublisherfont {A K Peters/CRC Press}, \btxeditionnumlong {2.}{},
   2002.
 
@@ -25,6 +24,19 @@
   {Game Engine Architecture}.
 \newblock \btxpublisherfont {A K Peters/CRC Press}, \btxeditionnumlong {2.}{},
   2014.
+
+\bibitem [{Mic11}]{Mic11}
+\btxnamefont {\btxlastnamefont {Microsoft}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Programming guide for direct3d 11}{Programming Guide for
+  Direct3D 11}}.
+\newblock
+  \url{https://msdn.microsoft.com/en-us/library/windows/desktop/ff476345},
+  2011.
+
+\bibitem [{Nvi10}]{Nvi10}
+\btxnamefont {\btxlastnamefont {Nvidia}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Tessellation}{Tessellation}}.
+\newblock \url{http://www.nvidia.com/object/tessellation.html}, 2010.
 
 \bibitem [{Puh08}]{Puh08}
 \btxnamefont {\btxlastnamefont {Puhakka}, Antti}\btxauthorcolon\ \btxtitlefont
@@ -36,5 +48,11 @@
   {Game Graphics Programming}.
 \newblock \btxpublisherfont {Charles River Media}, \btxeditionnumlong {1.}{},
   2008.
+
+\bibitem [{Vla01}]{Vla01}
+\btxnamefont {\btxlastnamefont {Vlachos}, Alex}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Curved pn triangles}{Curved PN triangles}}.
+\newblock \btxjournalfont {I3D '01 Proceedings of the 2001 symposium on
+  Interactive 3D graphics}, 2001.
 
 \end{thebibliography}
