@@ -1,4 +1,4 @@
-\begin{thebibliography}{Puh08}
+\begin{thebibliography}{{Ake}02}
   \providebibliographyfont{name}{}%
   \providebibliographyfont{lastname}{}%
   \providebibliographyfont{title}{\emph}%
@@ -13,9 +13,9 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
-\bibitem [{AM02}]{Ake02}
-\btxnamefont {\btxlastnamefont {Akenine-Möller},~Tomas;Haines,
-  Eric}\btxauthorcolon\ \btxtitlefont {Real-Time Rendering}.
+\bibitem [{{Ake}02}]{Ake02}
+\btxnamefont {\btxlastnamefont {{Akenine-M{\"o}ller Tomas and Haines,
+  Eric}}}\btxauthorcolon\ \btxtitlefont {Real-Time Rendering}.
 \newblock \btxpublisherfont {A K Peters/CRC Press}, \btxeditionnumlong {2.}{},
   2002.
 
@@ -33,9 +33,15 @@
   \url{https://msdn.microsoft.com/en-us/library/windows/desktop/ff476345},
   2011.
 
+\bibitem [{Nvi03}]{Nvi03}
+\btxnamefont {\btxlastnamefont {Nvidia}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {The cg tutorial}{The Cg Tutorial}}.
+\newblock
+  \url{http.developer.nvidia.com/CgTutorial/cg_tutorial_chapter01.html}, 2003.
+
 \bibitem [{Nvi10}]{Nvi10}
 \btxnamefont {\btxlastnamefont {Nvidia}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {Tessellation}{Tessellation}}.
+  {\btxifchangecase {Directx 11 tessellation}{DirectX 11 Tessellation}}.
 \newblock \url{http://www.nvidia.com/object/tessellation.html}, 2010.
 
 \bibitem [{Puh08}]{Puh08}
@@ -49,8 +55,15 @@
 \newblock \btxpublisherfont {Charles River Media}, \btxeditionnumlong {1.}{},
   2008.
 
-\bibitem [{Vla01}]{Vla01}
-\btxnamefont {\btxlastnamefont {Vlachos}, Alex}\btxauthorcolon\ \btxjtitlefont
+\bibitem [{{Sil}15}]{Ope15}
+\btxnamefont {\btxlastnamefont {{Silicon Graphics and Khronos
+  Group}}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {Opengl shading
+  language}{OpenGL Shading Language}}.
+\newblock \url{https://www.opengl.org/wiki/OpenGL_Shading_Language}, 2015.
+
+\bibitem [{{Vla}01}]{Vla01}
+\btxnamefont {\btxlastnamefont {{Vlachos, Alex and Peters, J{\"o}rg and Boyd,
+  Chas and Mitchell, Jason L.}}}\btxauthorcolon\ \btxjtitlefont
   {\btxifchangecase {Curved pn triangles}{Curved PN triangles}}.
 \newblock \btxjournalfont {I3D '01 Proceedings of the 2001 symposium on
   Interactive 3D graphics}, 2001.
