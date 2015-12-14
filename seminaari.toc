@@ -2,17 +2,16 @@
 \contentsline {section}{\numberline {1}Johdanto}{1}{section.1}
 \contentsline {section}{\numberline {2}3D-grafiikka}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Grafiikkaliukuhihna}{2}{subsection.2.1}
-\contentsline {section}{\numberline {3}S\IeC {\"a}vyttimien historiaa}{3}{section.3}
-\contentsline {section}{\numberline {4}Korkean tason s\IeC {\"a}vytinkielet}{4}{section.4}
-\contentsline {section}{\numberline {5}Ohjelmoitavat s\IeC {\"a}vyttimet}{4}{section.5}
-\contentsline {subsection}{\numberline {5.1}K\IeC {\"a}rkipistes\IeC {\"a}vyttimet}{5}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Tesselaatios\IeC {\"a}vytin}{6}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Geometrias\IeC {\"a}vyttimet}{7}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Pikseli-/fragmenttis\IeC {\"a}vyttimet}{8}{subsection.5.4}
-\contentsline {section}{\numberline {6}S\IeC {\"a}vytinohjelman luominen}{8}{section.6}
-\contentsline {section}{\numberline {7}S\IeC {\"a}vyttimien lataaminen ja muistink\IeC {\"a}ytt\IeC {\"o}}{8}{section.7}
-\contentsline {section}{\numberline {8}Yhteenveto}{8}{section.8}
-\contentsline {section}{L\IeC {\"a}hteet}{8}{section*.2}
+\contentsline {section}{\numberline {3}S\IeC {\"a}vyttimien historiaa}{2}{section.3}
+\contentsline {section}{\numberline {4}Ohjelmoitavat s\IeC {\"a}vyttimet}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}K\IeC {\"a}rkipistes\IeC {\"a}vytin}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Tesselaatios\IeC {\"a}vytin}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Geometrias\IeC {\"a}vytin}{8}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Pikselis\IeC {\"a}vytin}{9}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Laskentas\IeC {\"a}vytin}{9}{subsection.4.5}
+\contentsline {section}{\numberline {5}S\IeC {\"a}vytinohjelman luominen ja k\IeC {\"a}ytt\IeC {\"a}minen}{10}{section.5}
+\contentsline {section}{\numberline {6}Yhteenveto}{10}{section.6}
+\contentsline {section}{L\IeC {\"a}hteet}{10}{section*.2}
 \select@language {finnish}
 \select@language {finnish}
 \select@language {finnish}

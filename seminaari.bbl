@@ -31,6 +31,14 @@
   Language}}.
 \newblock \url{https://www.opengl.org/wiki/OpenGL_Shading_Language}, {2015}.
 
+\bibitem [{{Laz}05}]{Laz05}
+\btxnamefont {\btxlastnamefont {{Lazániy, István ja Szirmay-Kalos,
+  László}}}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {Fresnel term
+  approximations for metals}{Fresnel term approximations for metals}}.
+\newblock \btxjournalfont {WSCG '2005: Short Papers: The 13th International
+  Conference in Central Europe on Computer Graphics, Visualization and Computer
+  Vision 2005 in co-operation with EUROGRAPHICS, s. 77-80.}, 2005.
+
 \bibitem [{Mic11}]{Mic11}
 \btxnamefont {\btxlastnamefont {Microsoft}}\btxauthorcolon\ \btxtitlefont
   {\btxifchangecase {Direct3d 11 graphics}{Direct3D 11 Graphics}}.
@@ -38,15 +46,16 @@
   \url{https://msdn.microsoft.com/en-us/library/windows/desktop/ff476080(v=vs.85).aspx},
   2011.
 
-\bibitem [{Nvi03}]{Nvi03}
-\btxnamefont {\btxlastnamefont {Nvidia}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {The cg tutorial}{The Cg Tutorial}}.
+\bibitem [{{Nvi}03}]{Nvi03}
+\btxnamefont {\btxlastnamefont {{Nvidia Corporation}}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {The cg tutorial}{The Cg Tutorial}}.
 \newblock
   \url{http.developer.nvidia.com/CgTutorial/cg_tutorial_chapter01.html}, 2003.
 
-\bibitem [{Nvi10}]{Nvi10}
-\btxnamefont {\btxlastnamefont {Nvidia}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {Directx 11 tessellation}{DirectX 11 Tessellation}}.
+\bibitem [{{Nvi}10}]{Nvi10}
+\btxnamefont {\btxlastnamefont {{Nvidia Corporation}}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Directx 11 tessellation}{DirectX 11
+  Tessellation}}.
 \newblock \url{http://www.nvidia.com/object/tessellation.html}, 2010.
 
 \bibitem [{Puh08}]{Puh08}
@@ -60,9 +69,15 @@
 \newblock \btxpublisherfont {Charles River Media}, \btxeditionnumlong {1.}{},
   2008.
 
+\bibitem [{{Uni}15}]{Uni15}
+\btxnamefont {\btxlastnamefont {{Unity Technologies}}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Directx 11 and opengl core}{DirectX 11 and
+  OpenGL Core}}.
+\newblock \url{http://docs.unity3d.com/Manual/UsingDX11GL3Features.html}, 2015.
+
 \bibitem [{{Vla}01}]{Vla01}
-\btxnamefont {\btxlastnamefont {{Vlachos"," Alex ja Peters"," J{\"o}rg ja
-  Boyd"," Chas ja Mitchell"," Jason L.}}}\btxauthorcolon\ \btxjtitlefont
+\btxnamefont {\btxlastnamefont {{Vlachos, Alex ja Peters, J{\"o}rg ja Boyd,
+  Chas ja Mitchell, Jason L.}}}\btxauthorcolon\ \btxjtitlefont
   {\btxifchangecase {Curved pn triangles}{Curved PN triangles}}.
 \newblock \btxjournalfont {I3D '01 Proceedings of the 2001 symposium on
   Interactive 3D graphics}, 2001.

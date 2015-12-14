@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.7)  7 DEC 2015 13:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.7)  14 DEC 2015 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,55 +934,57 @@ Package babel Info: Redefining finnish shorthand "|
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 143.
 
-</Users/jannetim/Documents/SeminaariF2015materials/graphicspipelinedx11.jpg, id
-=104, 292.09125pt x 481.8pt>
-File: /Users/jannetim/Documents/SeminaariF2015materials/graphicspipelinedx11.jp
-g Graphic file (type jpg)
+</Users/jannetim/Documents/SeminaariF2015materials/DirectX-11-Rendering-Pipelin
+e.png, id=100, 690.58pt x 1238.6275pt>
+File: /Users/jannetim/Documents/SeminaariF2015materials/DirectX-11-Rendering-Pi
+peline.png Graphic file (type png)
 
-<use /Users/jannetim/Documents/SeminaariF2015materials/graphicspipelinedx11.jpg
->
-Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/grap
-hicspipelinedx11.jpg used on input line 148.
-(pdftex.def)             Requested size: 233.6733pt x 385.4405pt.
+<use /Users/jannetim/Documents/SeminaariF2015materials/DirectX-11-Rendering-Pip
+eline.png>
+Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/Dire
+ctX-11-Rendering-Pipeline.png used on input line 150.
+(pdftex.def)             Requested size: 276.2271pt x 495.44223pt.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 153.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 156.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 156.
- [2 </Users/jannetim/Documents/SeminaariF2015materials/graphicspipelinedx11.jpg
->]
-</Users/jannetim/Documents/SeminaariF2015materials/3-shadings-flat-gouraud-phon
-g.jpg, id=111, 558.085pt x 244.915pt>
-File: /Users/jannetim/Documents/SeminaariF2015materials/3-shadings-flat-gouraud
--phong.jpg Graphic file (type jpg)
+(babel)             in language  on input line 155.
 
-<use /Users/jannetim/Documents/SeminaariF2015materials/3-shadings-flat-gouraud-
-phong.jpg>
-Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/3-sh
-adings-flat-gouraud-phong.jpg used on input line 158.
-(pdftex.def)             Requested size: 360.0pt x 157.9895pt.
+</Users/jannetim/Documents/SeminaariF2015materials/gouraud.png, id=102, 364.361
+25pt x 212.795pt>
+File: /Users/jannetim/Documents/SeminaariF2015materials/gouraud.png Graphic fil
+e (type png)
 
+<use /Users/jannetim/Documents/SeminaariF2015materials/gouraud.png>
+Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/gour
+aud.png used on input line 160.
+(pdftex.def)             Requested size: 360.0pt x 210.25531pt.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 166.
+ [2]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 166.
 
-LaTeX Warning: Citation `She02' on page 3 undefined on input line 163.
+[3 </Users/jannetim/Documents/SeminaariF2015materials/DirectX-11-Rendering-Pipe
+line.png (PNG copy)>]
+
+LaTeX Warning: Citation `.' on page 4 undefined on input line 167.
 
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 169.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 167.
-[3 </Users/jannetim/Documents/SeminaariF2015materials/3-shadings-flat-gouraud-p
-hong.jpg>]
+(babel)             in language  on input line 174.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 174.
+[4 </Users/jannetim/Documents/SeminaariF2015materials/gouraud.png>]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 180.
+(babel)             in language  on input line 185.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 183.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 183.
- [4]
+(babel)             in language  on input line 185.
+ [5]
 (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/09/06 1.5e listings language file
 )
@@ -990,43 +992,83 @@ File: lstlang1.sty 2014/09/06 1.5e listings language file
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 )
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 205.
- [5]
+(babel)             in language  on input line 223.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 219.
-
-</Users/jannetim/Documents/SeminaariF2015materials/stalkercop-dx11.jpg, id=164,
+(babel)             in language  on input line 223.
+ [6]
+</Users/jannetim/Documents/SeminaariF2015materials/stalkercop-dx11.jpg, id=184,
  501.875pt x 280.04625pt>
 File: /Users/jannetim/Documents/SeminaariF2015materials/stalkercop-dx11.jpg Gra
 phic file (type jpg)
 
 <use /Users/jannetim/Documents/SeminaariF2015materials/stalkercop-dx11.jpg>
 Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/stal
-kercop-dx11.jpg used on input line 232.
+kercop-dx11.jpg used on input line 231.
 (pdftex.def)             Requested size: 360.0pt x 200.8896pt.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 238.
+(babel)             in language  on input line 237.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 237.
+
+[7 </Users/jannetim/Documents/SeminaariF2015materials/stalkercop-dx11.jpg>]
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 238.
 
-[6]
+</Users/jannetim/Documents/SeminaariF2015materials/events.jpg, id=194, 1836.862
+5pt x 1023.825pt>
+File: /Users/jannetim/Documents/SeminaariF2015materials/events.jpg Graphic file
+ (type jpg)
+
+<use /Users/jannetim/Documents/SeminaariF2015materials/events.jpg>
+Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/even
+ts.jpg used on input line 245.
+(pdftex.def)             Requested size: 360.0pt x 200.65271pt.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 239.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 245.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 245.
- [7 </Users/jannetim/Documents/SeminaariF2015materials/stalkercop-dx11.jpg>]
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 245.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 251.
+(babel)             in language  on input line 250.
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 253.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 253.
+ [8 </Users/jannetim/Documents/SeminaariF2015materials/events.jpg>]
+</Users/jannetim/Documents/SeminaariF2015materials/Phong_components.png, id=202
+, 724.95844pt x 201.75375pt>
+File: /Users/jannetim/Documents/SeminaariF2015materials/Phong_components.png Gr
+aphic file (type png)
+
+<use /Users/jannetim/Documents/SeminaariF2015materials/Phong_components.png>
+Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/Phon
+g_components.png used on input line 257.
+(pdftex.def)             Requested size: 360.0pt x 100.18703pt.
+
+</Users/jannetim/Documents/SeminaariF2015materials/Celshading_teapot.png, id=20
+3, 1505.625pt x 364.36125pt>
+File: /Users/jannetim/Documents/SeminaariF2015materials/Celshading_teapot.png G
+raphic file (type png)
+
+<use /Users/jannetim/Documents/SeminaariF2015materials/Celshading_teapot.png>
+Package pdftex.def Info: /Users/jannetim/Documents/SeminaariF2015materials/Cels
+hading_teapot.png used on input line 263.
+(pdftex.def)             Requested size: 360.0pt x 87.12045pt.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 268.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 271.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 271.
+
+[9 </Users/jannetim/Documents/SeminaariF2015materials/Phong_components.png (PNG
+ copy)> </Users/jannetim/Documents/SeminaariF2015materials/Celshading_teapot.pn
+g>]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 272.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 288.
+
 (./seminaari.bbl
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 1.
@@ -1050,61 +1092,57 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 41.
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
 \T1/lmtt/m/n/10.95 en-[]us / library / windows / desktop / ff476080(v = vs . 85
  ) .aspx$[]\T1/lmr/m/n/10.95 (+20) ,
  []
 
-
-Underfull \hbox (badness 7221) in paragraph at lines 42--46
-[]\T1/lmr/m/n/10.95 (+20) Nvidia: \T1/lmr/m/it/10.95 (+20) The Cg Tu-to-rial\T1
-/lmr/m/n/10.95 (+20) .  []$\T1/lmtt/m/n/10.95 http . developer . nvidia . com /
-
- []
-
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 57.
+(babel)             in language  on input line 315.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 57.
-[8])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 282.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 282.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
+(babel)             in language  on input line 315.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 315.
  (./seminaari.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 315.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 315.
 Package rerunfilecheck Info: File `seminaari.out' has not changed.
-(rerunfilecheck)             Checksum: 473A061331C684BACA7EDD782E08E77B;882.
+(rerunfilecheck)             Checksum: E4D0E510BFC7BCD8CEE622ED92BD297A;800.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 315.
  ) 
 Here is how much of TeX's memory you used:
- 11721 strings out of 493089
- 172407 string characters out of 6134842
- 345158 words of memory out of 5000000
- 14798 multiletter control sequences out of 15000+600000
- 52115 words of font info for 109 fonts, out of 8000000 for 9000
+ 11835 strings out of 493089
+ 174539 string characters out of 6134842
+ 365939 words of memory out of 5000000
+ 14881 multiletter control sequences out of 15000+600000
+ 63199 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,8n,51p,1074b,1923s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,51p,1130b,1249s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
-ype1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/lm/lmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.p
-fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on seminaari.pdf (12 pages, 365087 bytes).
+ist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr6.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on seminaari.pdf (14 pages, 714466 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
- 68 named destinations out of 1000 (max. 500000)
- 14464 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 290 PDF objects out of 1000 (max. 8388607)
+ 254 compressed objects within 3 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 19079 words of extra memory for PDF output out of 20736 (max. 10000000)
 
