@@ -3,15 +3,18 @@
 \contentsline {section}{\numberline {2}3D-grafiikka}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Grafiikkaliukuhihna}{2}{subsection.2.1}
 \contentsline {section}{\numberline {3}S\IeC {\"a}vyttimien historiaa}{2}{section.3}
-\contentsline {section}{\numberline {4}Ohjelmoitavat s\IeC {\"a}vyttimet}{4}{section.4}
+\contentsline {subsection}{\numberline {3.1}Kiinte\IeC {\"a} liukuhihna}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Alemman tason kielinen s\IeC {\"a}vytinohjelmointi}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Korkean tason s\IeC {\"a}vytinkielet}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Ohjelmoitavat s\IeC {\"a}vyttimet}{5}{section.4}
 \contentsline {subsection}{\numberline {4.1}K\IeC {\"a}rkipistes\IeC {\"a}vytin}{5}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Tesselaatios\IeC {\"a}vytin}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.2}Tesselaatios\IeC {\"a}vytin}{7}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Geometrias\IeC {\"a}vytin}{8}{subsection.4.3}
 \contentsline {subsection}{\numberline {4.4}Pikselis\IeC {\"a}vytin}{9}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Laskentas\IeC {\"a}vytin}{9}{subsection.4.5}
-\contentsline {section}{\numberline {5}S\IeC {\"a}vytinohjelman luominen ja k\IeC {\"a}ytt\IeC {\"a}minen}{10}{section.5}
-\contentsline {section}{\numberline {6}Yhteenveto}{10}{section.6}
-\contentsline {section}{L\IeC {\"a}hteet}{10}{section*.2}
+\contentsline {subsection}{\numberline {4.5}Laskentas\IeC {\"a}vytin}{10}{subsection.4.5}
+\contentsline {section}{\numberline {5}S\IeC {\"a}vytinohjelman luominen ja k\IeC {\"a}ytt\IeC {\"a}minen}{11}{section.5}
+\contentsline {section}{\numberline {6}Yhteenveto}{12}{section.6}
+\contentsline {section}{L\IeC {\"a}hteet}{12}{section*.2}
 \select@language {finnish}
 \select@language {finnish}
 \select@language {finnish}

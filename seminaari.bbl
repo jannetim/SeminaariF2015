@@ -58,10 +58,30 @@
   Tessellation}}.
 \newblock \url{http://www.nvidia.com/object/tessellation.html}, 2010.
 
+\bibitem [{{Nvi}12}]{Nvi12}
+\btxnamefont {\btxlastnamefont {{Nvidia Corporation}}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Cg documentation}{Cg Documentation}}.
+\newblock \url{http://http.developer.nvidia.com/Cg/}, 2012.
+
+\bibitem [{Pix15}]{Pix15}
+\btxnamefont {\btxlastnamefont {Pixar}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {A brief introduction to renderman}{A Brief Introduction To
+  RenderMan}}.
+\newblock
+  \url{http://renderman.pixar.com/view/brief-introduction-to-renderman}, 2015.
+
 \bibitem [{Puh08}]{Puh08}
 \btxnamefont {\btxlastnamefont {Puhakka}, Antti}\btxauthorcolon\ \btxtitlefont
   {3D-grafiikka}.
 \newblock \btxpublisherfont {Talentum}, \btxeditionnumlong {1.}{}, 2008.
+
+\bibitem [{{Sch}14}]{Sch14}
+\btxnamefont {\btxlastnamefont {{Sch{\"a}fer, H. ja Niessner M. ja Keinert, B.
+  ja Stamminger, M. ja C. Loop}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {State of the art report on real-time rendering with
+  hardware tessellation}{State of the Art Report on Real-time Rendering with
+  Hardware Tessellation}}.
+\newblock \btxjournalfont {EUROGRAPHICS 2014/ S}, 2014.
 
 \bibitem [{She08}]{She08}
 \btxnamefont {\btxlastnamefont {Sherrod}, Allen}\btxauthorcolon\ \btxtitlefont

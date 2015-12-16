@@ -3,49 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: seminaari.aux
 The style file: babalpha-lf.bst
 Database file #1: references-fi.bib
-Warning--I didn't find a database entry for "."
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty language in Ake02
-You've used 11 entries,
+You've used 14 entries,
             3208 wiz_defined-function locations,
-            761 strings with 7710 characters,
-and the built_in function-call counts, 3605 in all, are:
-= -- 320
-> -- 88
-< -- 11
-+ -- 23
-- -- 22
-* -- 287
-:= -- 539
-add.period$ -- 22
-call.type$ -- 11
-change.case$ -- 55
-chr.to.int$ -- 11
-cite$ -- 12
-duplicate$ -- 207
-empty$ -- 375
-format.name$ -- 55
-if$ -- 768
+            777 strings with 8118 characters,
+and the built_in function-call counts, 4573 in all, are:
+= -- 409
+> -- 112
+< -- 14
++ -- 30
+- -- 28
+* -- 364
+:= -- 682
+add.period$ -- 28
+call.type$ -- 14
+change.case$ -- 70
+chr.to.int$ -- 14
+cite$ -- 15
+duplicate$ -- 260
+empty$ -- 476
+format.name$ -- 70
+if$ -- 977
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 12
-newline$ -- 60
-num.names$ -- 33
-pop$ -- 114
+missing$ -- 14
+newline$ -- 72
+num.names$ -- 42
+pop$ -- 145
 preamble$ -- 1
-purify$ -- 66
+purify$ -- 84
 quote$ -- 0
-skip$ -- 137
+skip$ -- 176
 stack$ -- 0
-substring$ -- 78
-swap$ -- 48
-text.length$ -- 11
-text.prefix$ -- 11
+substring$ -- 100
+swap$ -- 60
+text.length$ -- 14
+text.prefix$ -- 14
 top$ -- 0
-type$ -- 72
+type$ -- 96
 warning$ -- 1
-while$ -- 22
-width$ -- 14
-write$ -- 118
-(There were 2 warnings)
+while$ -- 28
+width$ -- 17
+write$ -- 145
+(There was 1 warning)
