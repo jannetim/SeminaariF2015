@@ -25,6 +25,10 @@
 \newblock \btxpublisherfont {A K Peters/CRC Press}, \btxeditionnumlong {2.}{},
   2014.
 
+\bibitem [{{Kes}14}]{Kes14}
+\btxnamefont {\btxlastnamefont {{Kessenich, John, Baldwin, Dave ja Randi
+  Rost}}}\btxauthorcolon\ \btxtitlefont {The OpenGL® Shading Language}, 2014.
+
 \bibitem [{{Khr}15}]{Khr15}
 \btxnamefont {\btxlastnamefont {{Khronos Group ja SGI}}}\btxauthorcolon\
   \btxtitlefont {\btxifchangecase {Opengl shading language}{OpenGL Shading

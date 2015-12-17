@@ -6,45 +6,45 @@ Database file #1: references-fi.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty language in Ake02
-You've used 14 entries,
+You've used 15 entries,
             3208 wiz_defined-function locations,
-            777 strings with 8118 characters,
-and the built_in function-call counts, 4573 in all, are:
-= -- 409
-> -- 112
-< -- 14
-+ -- 30
-- -- 28
-* -- 364
-:= -- 682
-add.period$ -- 28
-call.type$ -- 14
-change.case$ -- 70
-chr.to.int$ -- 14
-cite$ -- 15
-duplicate$ -- 260
-empty$ -- 476
-format.name$ -- 70
-if$ -- 977
+            781 strings with 8203 characters,
+and the built_in function-call counts, 4859 in all, are:
+= -- 435
+> -- 120
+< -- 15
++ -- 33
+- -- 30
+* -- 385
+:= -- 723
+add.period$ -- 29
+call.type$ -- 15
+change.case$ -- 74
+chr.to.int$ -- 15
+cite$ -- 16
+duplicate$ -- 277
+empty$ -- 505
+format.name$ -- 75
+if$ -- 1037
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 14
-newline$ -- 72
-num.names$ -- 42
-pop$ -- 145
+newline$ -- 75
+num.names$ -- 45
+pop$ -- 153
 preamble$ -- 1
-purify$ -- 84
+purify$ -- 90
 quote$ -- 0
-skip$ -- 176
+skip$ -- 189
 stack$ -- 0
-substring$ -- 100
-swap$ -- 60
-text.length$ -- 14
-text.prefix$ -- 14
+substring$ -- 108
+swap$ -- 64
+text.length$ -- 15
+text.prefix$ -- 15
 top$ -- 0
-type$ -- 96
+type$ -- 104
 warning$ -- 1
-while$ -- 28
-width$ -- 17
-write$ -- 145
+while$ -- 30
+width$ -- 18
+write$ -- 152
 (There was 1 warning)
