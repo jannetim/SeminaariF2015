@@ -3,48 +3,56 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: seminaari.aux
 The style file: babalpha-lf.bst
 Database file #1: references-fi.bib
+Warning--entry type for "Sou07" isn't style-file defined
+--line 135 of file references-fi.bib
+Warning--entry type for "Bur09" isn't style-file defined
+--line 142 of file references-fi.bib
+Warning--entry type for "Smi06" isn't style-file defined
+--line 149 of file references-fi.bib
+Warning--entry type for "Tsi06" isn't style-file defined
+--line 157 of file references-fi.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty language in Ake02
-You've used 15 entries,
+You've used 21 entries,
             3208 wiz_defined-function locations,
-            781 strings with 8203 characters,
-and the built_in function-call counts, 4859 in all, are:
-= -- 435
-> -- 120
-< -- 15
-+ -- 33
-- -- 30
-* -- 385
-:= -- 723
-add.period$ -- 29
-call.type$ -- 15
-change.case$ -- 74
-chr.to.int$ -- 15
-cite$ -- 16
-duplicate$ -- 277
-empty$ -- 505
-format.name$ -- 75
-if$ -- 1037
+            820 strings with 9134 characters,
+and the built_in function-call counts, 6871 in all, are:
+= -- 618
+> -- 168
+< -- 21
++ -- 46
+- -- 42
+* -- 553
+:= -- 1013
+add.period$ -- 42
+call.type$ -- 21
+change.case$ -- 105
+chr.to.int$ -- 21
+cite$ -- 22
+duplicate$ -- 381
+empty$ -- 725
+format.name$ -- 105
+if$ -- 1478
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 75
-num.names$ -- 45
-pop$ -- 153
+missing$ -- 16
+newline$ -- 100
+num.names$ -- 63
+pop$ -- 224
 preamble$ -- 1
-purify$ -- 90
+purify$ -- 126
 quote$ -- 0
-skip$ -- 189
+skip$ -- 267
 stack$ -- 0
-substring$ -- 108
-swap$ -- 64
-text.length$ -- 15
-text.prefix$ -- 15
+substring$ -- 151
+swap$ -- 88
+text.length$ -- 21
+text.prefix$ -- 21
 top$ -- 0
-type$ -- 104
+type$ -- 152
 warning$ -- 1
-while$ -- 30
-width$ -- 18
-write$ -- 152
-(There was 1 warning)
+while$ -- 42
+width$ -- 24
+write$ -- 212
+(There were 5 warnings)

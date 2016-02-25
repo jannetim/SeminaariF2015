@@ -19,6 +19,20 @@
 \newblock \btxpublisherfont {A K Peters/CRC Press}, \btxeditionnumlong {2.}{},
   2002.
 
+\bibitem [{Bur09}]{Bur09}
+\btxnamefont {\btxlastnamefont {Burikin}, Lucas}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {D3d shading modes}{D3D Shading Modes}}, 2009.
+\newblock {\latintext
+  \btxurlfont{https://commons.wikimedia.org/wiki/File:D3D_Shading_Modes.png#/media/File:D3D_Shading_Modes.png}},
+  Public domain.
+
+\bibitem [{Gou71}]{Gou71}
+\btxnamefont {\btxlastnamefont {Gouraud}, Henri}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Continuous shading of curved surfaces}{Continuous shading
+  of curved surfaces}}.
+\newblock \btxjournalfont {IEEE Transactions on Computers C–20 June: s.
+  623-629}, 1971.
+
 \bibitem [{Gre14}]{Gre14}
 \btxnamefont {\btxlastnamefont {Gregory}, Jason}\btxauthorcolon\ \btxtitlefont
   {Game Engine Architecture}.
@@ -27,13 +41,14 @@
 
 \bibitem [{{Kes}14}]{Kes14}
 \btxnamefont {\btxlastnamefont {{Kessenich, John, Baldwin, Dave ja Randi
-  Rost}}}\btxauthorcolon\ \btxtitlefont {The OpenGL® Shading Language}, 2014.
+  Rost}}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {The opengl® shading
+  language}{The OpenGL® Shading Language}}.
+\newblock \url{https://www.opengl.org/registry/doc/GLSLangSpec.4.40.pdf}, 2014.
 
 \bibitem [{{Khr}15}]{Khr15}
 \btxnamefont {\btxlastnamefont {{Khronos Group ja SGI}}}\btxauthorcolon\
-  \btxtitlefont {\btxifchangecase {Opengl shading language}{OpenGL Shading
-  Language}}.
-\newblock \url{https://www.opengl.org/wiki/OpenGL_Shading_Language}, {2015}.
+  \btxtitlefont {\btxifchangecase {Opengl}{OpenGL}}.
+\newblock \url{https://www.opengl.org/wiki/}, {2015}.
 
 \bibitem [{{Laz}05}]{Laz05}
 \btxnamefont {\btxlastnamefont {{Lazániy, István ja Szirmay-Kalos,
@@ -42,6 +57,14 @@
 \newblock \btxjournalfont {WSCG '2005: Short Papers: The 13th International
   Conference in Central Europe on Computer Graphics, Visualization and Computer
   Vision 2005 in co-operation with EUROGRAPHICS, s. 77-80.}, 2005.
+
+\bibitem [{Luq12}]{Luq12}
+\btxnamefont {\btxlastnamefont {Luque}, Raul\btxfnamespacelong
+  Reyes}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {The cel shading
+  technique}{The Cel Shading Technique}}.
+\newblock
+  \url{https://raulreyesfinalproject.files.wordpress.com/2012/12/dissertation_cell-shading-raul_reyes_luque.pdf},
+  2012.
 
 \bibitem [{Mic11}]{Mic11}
 \btxnamefont {\btxlastnamefont {Microsoft}}\btxauthorcolon\ \btxtitlefont
@@ -92,6 +115,29 @@
   {Game Graphics Programming}.
 \newblock \btxpublisherfont {Charles River Media}, \btxeditionnumlong {1.}{},
   2008.
+
+\bibitem [{Smi06}]{Smi06}
+\btxnamefont {\btxlastnamefont {Smith}, Brad}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Phong components version 4}{Phong components version 4}},
+  2006.
+\newblock {\latintext
+  \btxurlfont{https://en.wikipedia.org/wiki/Phong_reflection_model#/media/File:Phong_components_version_4.png}},
+  CC BY-SA 3.0.
+
+\bibitem [{Sou07}]{Sou07}
+\btxnamefont {\btxlastnamefont {Sourd}, Nicolas}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Utah teapot cel-shading}{Utah Teapot Cel-shading}}, 2007.
+\newblock {\latintext
+  \btxurlfont{https://en.wikipedia.org/wiki/Cel_shading#/media/File:Celshading_teapot_large.png}},
+  CC BY 2.5.
+
+\bibitem [{Tsi06}]{Tsi06}
+\btxnamefont {\btxlastnamefont {Tsiombikas}, John}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Ad hoc particle system used to simulate a
+  galaxy}{Ad hoc particle system used to simulate a galaxy}}, 2006.
+\newblock {\latintext
+  \btxurlfont{https://commons.wikimedia.org/wiki/File:Particle_sys_galaxy.jpg#/media/File:Particle_sys_galaxy.jpg}},
+  Public domain.
 
 \bibitem [{{Uni}15}]{Uni15}
 \btxnamefont {\btxlastnamefont {{Unity Technologies}}}\btxauthorcolon\
